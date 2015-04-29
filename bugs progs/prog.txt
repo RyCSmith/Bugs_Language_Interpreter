@@ -1,0 +1,10 @@
+Bug foo{
+var foo
+initially{
+move 3 > 3
+}
+line 3 <= 3, 3 <= 3, 3 <= 3, 3 <= 3
+define foo using fooone, footoo {
+move 3 > 3
+}
+}
